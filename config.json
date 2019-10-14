@@ -1,0 +1,9 @@
+{
+    "dbhost" : "jlaclouddb01.cluster-clsjrvewtwgn.us-east-1.rds.amazonaws.com",
+    "dbname" : "jla_cloud_data",
+    "dbuser" :"jlacloudsa",
+    "dbpassword" :"I07MxdJFP1f1Ol2pWBdq",
+    "smtphost" : "us-smtp-outbound-1.mimecast.com",
+    "smtpuser" : "itnotifications@jetlinx.com",
+    "smtppassword" :"Powerman5000"
+}
